@@ -2,7 +2,7 @@ Website E-Artikel Winnie Code adalah platform pengelolaan artikel yang dilengkap
 
 Dapat dilihat melalui website https://eartikelwinnicode.freesite.online/
 
-#Panduan Instalasi E-Artikel Winnie Code#
+Panduan Instalasi E-Artikel Winnie Code
 Persyaratan Sistem
 XAMPP (dengan PHP dan MySQL)
 Web Browser
